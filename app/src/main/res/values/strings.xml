@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">CyclingSquad</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Cycling Squad Inc.</string>
+    <string name="nav_header_subtitle">cyclingSquad.ca</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Trending News</string>
+    <string name="menu_locations">Our Locations</string>
+    <string name="menu_schedule">Dates And Times</string>
+    <string name="menu_contact">Contact Us!</string>
+
+    <!--
+        * View pager Locations
+    -->
+    <string name="locations_first">Devonwood Conservative Area</string>
+    <string name="locations_second">Malden Park</string>
+    <string name="locations_third">Little River Corridor</string>
+    <string name="locations_fourth">Lasalle Trails</string>
+    <string name="locations_fifth">Riverside Trail</string>
+
+    <!--
+        * Trending News RecyclerView
+    -->
+    <string name="news_first">New Trail Opening Soon!</string>
+    <string name="news_second">April 2021 Will Be A Sunny Month!</string>
+    <string name="news_third">New High Tech Bicycles Coming Soon!</string>
+    <string name="news_fourth">How much money do pro cyclists make?</string>
+    <string name="news_fifth">Is cycling better than running?</string>
+
+    <!--
+        * Schedule Day RecyclerView
+    -->
+    <string name="day_monday">Monday</string>
+    <string name="day_tuesday">Tuesday</string>
+    <string name="day_wednesday">Wednesday</string>
+    <string name="day_thursday">Thursday</string>
+    <string name="day_friday">Friday</string>
+
+    <!--
+        * Schedule Time RecyclerView
+    -->
+    <string name="time_monday">6AM - 8AM</string>
+    <string name="time_tuesday">6AM - 9AM</string>
+    <string name="time_wednesday">6AM - 8AM</string>
+    <string name="time_thursday">6AM - 8AM</string>
+    <string name="time_friday">6AM - 8AM And 10AM - 12AM</string>
+
+</resources>
